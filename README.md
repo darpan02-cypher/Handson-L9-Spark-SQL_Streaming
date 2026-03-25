@@ -129,7 +129,7 @@ By the end of this assignment, you should be able to:
 
 ## 📬 Submission Checklist
 
-- [*] Python scripts 
+- [x] Python scripts 
 - [x] Output files in the `outputs/` directory  
 - [x] Completed `README.md`  
 - [x] Commit everything to GitHub Classroom  
